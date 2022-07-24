@@ -1,13 +1,13 @@
-<h1>Arquitetura CSS: descomplicando os problemas Arquitetura CSS: descomplicando os problemas</h1>
+<h1>Arquitetura CSS: descomplicando os problemas</h1>
 > Status do Projeto: Em construção :hammer:
 
-## imagens do projeto
+<!-- ## imagens do projeto
 
 <div>
   <img src="" height="250" alt="imagem de demostração do projeto"  />
     <img src="" height="250" alt="imagem 2 de demostração do projeto "  />
     <img src="" height="250" alt="imagem 3 de demostração do projeto "  />    
-</div>
+</div> -->
 
 ## Tecnologias usadas
 
@@ -59,4 +59,3 @@ git clone
 [<img src="https://github.com/kleytoncristovao.png" width=115><br><sub>Kleyton Cristovão</sub>](https://github.com/kleytoncristovao) 
 
 
-<p align="center"> Copyright :copyright: 2022 </p>
