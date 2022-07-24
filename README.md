@@ -45,7 +45,7 @@
 No terminal, clone o projeto: 
 
 ```
-git clone 
+git clone https://github.com/kleytoncristovao/Arquitetura-css-alura.git
 ```
 
 ## Casos de Uso
