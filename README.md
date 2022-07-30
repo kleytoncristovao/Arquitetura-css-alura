@@ -39,7 +39,6 @@
 
 > Link do deploy da aplicação: 
 
-
 ## Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
